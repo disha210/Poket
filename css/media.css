@@ -1,0 +1,115 @@
+
+@media screen and (max-width:525px){
+    
+    #feature_testi .owl-stage-outer {
+        height: 650px;
+    }
+    .port_img_height{
+        height: 238px !important;
+    }
+
+}
+
+@media screen and (min-device-width: 525px) and (max-device-width: 767px){
+    #feature_testi .owl-stage-outer{
+        height: 750px;
+    }
+    
+}
+
+
+@media screen and (max-width:767px){
+    .poket-header-top{
+        display: none;
+    }
+    .portfolio_area{
+        padding-bottom: 50px;
+    }
+    .main_title h3{
+        font-size: 25px;
+    }
+    .count_area_content{
+        margin-bottom: 20px;
+    }
+    .menu_Pproduct_area{
+        padding-bottom: 25px;
+    }
+    #feature_testi .owl-prev,
+    #feature_testi .owl-next{
+        opacity: 0 !important;
+    }
+    .main_company_brand{
+        padding: 50px 0px 50px 0px !important;
+    }
+    .get_in_touch_left{
+        padding: 60px 10px 30px 10px;;
+    }
+    .get_in_touch_area{
+        padding: 60px 0px 30px 0px;;
+    }
+    .footer_middle{
+        text-align: center;
+    }
+    .footer_add_icon{
+        float: none;
+    }
+    .footer_resent_post{
+        display: inline-block !important;
+    }
+    
+    
+}
+@media screen and (min-device-width: 768px) and (max-device-width: 991px) {
+    
+    .left_about{
+        padding-top: 20px;
+    }
+    .main_title h3{
+        font-size: 30px;
+    }
+    
+    
+}
+
+@media screen and (max-width:991px){
+    
+    .bakery_item{
+        padding: 10px 0;
+    }
+    .navbar-brand{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .nav_bar{
+        align-items: center;
+    }
+    .head_btn,.head_cart{
+        display: none;
+    }
+    .about_title h3{
+        font-size: 30px;
+    }
+    .about_btn{
+        margin-top: 40px !important;
+    }
+   .countter_img{
+        float: none !important;
+        margin-bottom: 10px;
+   }
+   .poket_nav_area{
+    display: none;
+   }
+   .navbar{
+       display: block;
+    }
+    
+    .portfolio_item{
+        width: 100% !important;
+    }
+}       
+@media screen and (min-device-width: 992px) and (max-device-width: 1200px) {
+    .port_img_height{
+        height: 395px !important;
+    }
+}
